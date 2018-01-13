@@ -1,0 +1,20 @@
+{
+    "name": "x2ts/x2ts-remote-lock",
+    "description": "Remote locks",
+    "type": "library",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "TingSong-Syu",
+            "email": "rek@rek.me"
+        }
+    ],
+    "require": {
+        "x2ts/x2ts": "v2.5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "x2ts\\remote_lock\\": "src"
+        }
+    }
+}
