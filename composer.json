@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "x2ts/x2ts": "v2.5.5"
+        "x2ts/x2ts": "^2.5.5"
     },
     "autoload": {
         "psr-4": {
